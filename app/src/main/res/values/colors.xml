@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mgs_black">#FF000000</color>
+    <color name="mgs_white">#FFFFFFFF</color>
+    <color name="mgs_green_dark">#FF0A1A0A</color>
+    <color name="mgs_green_medium">#FF1E3C1E</color>
+    <color name="mgs_green_light">#FF6B8E23</color>
+    <color name="mgs_blue">#FF00A8A8</color>
+    <color name="mgs_grey_dark">#FF333333</color>
+    <color name="mgs_grey_medium">#FF666666</color>
+    <color name="mgs_grey_light">#FF999999</color>
+</resources>

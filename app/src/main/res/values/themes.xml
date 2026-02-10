@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HeroLedger" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/mgs_green_medium</item>
+        <item name="colorPrimaryVariant">@color/mgs_green_dark</item>
+        <item name="colorOnPrimary">@color/mgs_white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/mgs_blue</item>
+        <item name="colorSecondaryVariant">@color/mgs_blue</item>
+        <item name="colorOnSecondary">@color/mgs_black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.HeroLedger" parent="Base.Theme.HeroLedger" />
+</resources>

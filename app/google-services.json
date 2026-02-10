@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289450631934",
+    "project_id": "heroledger-2004",
+    "storage_bucket": "heroledger-2004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289450631934:android:513ab4eca0fb49dd80bbaf",
+        "android_client_info": {
+          "package_name": "com.example.heroledger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1BtqVKKH8xTEJ8AFoRQIG41qWyKr4Emw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
