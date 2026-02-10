@@ -14,7 +14,7 @@ A personal finance management application with a tactical, Metal Gear-inspired i
     *   Easily add new income or expense transactions with a title, amount, and optional description.
     *   View a comprehensive history of all your financial activities in a clear, list-based format.
 *   **Custom Theming:** A unique user interface inspired by the iconic Metal Gear Solid series, featuring a tactical color palette and design.
-
+*   **Custom API:** Put your own unique API from Google Cloud and feel like Snake.
 ## Tech Stack & Libraries
 
 *   **Kotlin:** The official, modern programming language for Android development.
